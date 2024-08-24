@@ -1,0 +1,7 @@
+# OS X files
+.history
+.htaccess
+.DS_Store
+
+# Others
+Makefile
